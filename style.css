@@ -370,6 +370,9 @@ footer {
     border-color: rgba(255, 255, 255, 0.15);
 }
 
+.icon-journal {
+    display: none;
+}
 
 @media screen and (min-width: 1201px) and (max-width: 2000px) {
 
